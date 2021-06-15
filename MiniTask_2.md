@@ -1,4 +1,0 @@
-# Project 1- Line Follower Robot (Without Microcontroller)
-#### Purpose-IR based line follower robot from scratch
-#### Topic-Electronics
-This project is totally based on electronics no programming and coding is required. Based on the concept of reflection of infrared rays and Infrared rays are totally absorbed by black colored surfaces .The IR receiver has to be reverse biased. The reflected IR needs to be amplified and IC358 is use to built the amplifier and voltage comparator. Voltage divider is build using the receiver diode and a 10k resistor. Now the sensors are connected with motors using  IC L293D(Connecting the sensors directly will destroy the circuit since large current is required to run motors).A suitable power supply is connected to the bot preferably 18650 Lithium ion battery.
