@@ -11,3 +11,11 @@ This project is totally based on electronics no programming and coding is requir
 
 This device will help us to maintain proper ventilation in room which is one of the important aspect in stopping the spread of Covid -19.This device is built around Adafruit Feather328P(other than this any similar similar Arduino Microcontroller can be use).Adafruit Featherwing OLED is used to display the concentration along with date and time, it contains a small OLED screen which communicates through I2C and one more reason for using this particular model is that it contains 3 buttons which are use to interact with device interface. Featherwing Adalogger is used to save the concentration data in SD card this component is a combination of I2C RTC and SPI SD card reader. A  Gravity CO2 sensor is use to measure the gas concentration and LED to use to indicate the level. After connecting all the components code is uploaded using Arduino IDE.
 *Project Link*:https://www.instructables.com/CO2-Monitoring-As-an-Anti-Covid19-Measure/
+
+# Project 3- Dust Monitoring System
+#### Purpose- Using IOT to built a Dust monitoring system
+#### Topics- Arduino and IOT
+An IOT based Dust density monitor which can measure the surrounding dust and send the data through internet ,which can be used to graphically monitor the long term value of dust density in a place. Sharp gp2y1014auOf is a particulate sensor built around IR led and uses light scattering technique   to measure the dust concentration in the surrounding.To make this IOT based Arduino Microcontroller and ESP8266(ESP01) WiFi module for internet connectivity is used .After configuring all the components ,Blynk  app setup is done and code needs to be uploaded .
+One suggestion from my side is that a buzzer should be added to warn when the dust concentration is high.
+*Project Link*:https://www.hackster.io/abid_hossain/long-term-dust-monitoring-system-eeeeea
+
