@@ -19,3 +19,10 @@ An IOT based Dust density monitor which can measure the surrounding dust and sen
 One suggestion from my side is that a buzzer should be added to warn when the dust concentration is high.
 *Project Link*:https://www.hackster.io/abid_hossain/long-term-dust-monitoring-system-eeeeea
 
+# Project 4-Pulse Oximeter and Heart Rate Monitor
+#### Purpose-To build a pulse oximeter and heart rate monitor using MAX30102 sensor.
+#### Topic-Arduino
+~~Disclaimer~~: It should be stated that this device is not reliable and accurate enough for medical diagnosis. Fun Project to show off the capabilities of Arduino and few other components!!
+MAX30102 sensor is used which uses a technique called photoplethysmography to monitor the heart rate. The results are displayed on I2C OLED screen. After connecting the sensor and OLED screen with the arduino code is uploaded and green and indicates the range of your SP02 level.
+*Project Link*:https://www.instructables.com/Pulse-Oximeter-and-Heart-Rate-Monitor/
+
