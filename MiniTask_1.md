@@ -7,7 +7,7 @@ This project is totally based on electronics no programming and coding is requir
 
 # Project 2-CO2 Level Indicator-Anti Covid-19 Measure
 #### Purpose- A device to measure CO2 Concentration
-#### Topics- Microcontrollers
+#### Topic- Microcontrollers
 
 This device will help us to maintain proper ventilation in room which is one of the important aspect in stopping the spread of Covid -19.This device is built around Adafruit Feather328P(other than this any similar similar Arduino Microcontroller can be use).Adafruit Featherwing OLED is used to display the concentration along with date and time, it contains a small OLED screen which communicates through I2C and one more reason for using this particular model is that it contains 3 buttons which are use to interact with device interface. Featherwing Adalogger is used to save the concentration data in SD card this component is a combination of I2C RTC and SPI SD card reader. A  Gravity CO2 sensor is use to measure the gas concentration and LED to use to indicate the level. After connecting all the components code is uploaded using Arduino IDE.
 *Project Link*:https://www.instructables.com/CO2-Monitoring-As-an-Anti-Covid19-Measure/
