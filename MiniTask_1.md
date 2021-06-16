@@ -35,3 +35,15 @@ This project uses Voice Recognition Module V3 to communicate which can store upt
 
 *Project Link*:https://www.instructables.com/ILUMINEXA-HomeMade-Alexa-With-ESP32/
 
+# Project 6- Glove Control Robotic Hand
+#### Purpose-To build a fully functional Robotic Hand that can be controlled by glove with flex sensors.
+#### Topic-Arduino and Flex Sensors
+Robotic hand finger is constructed using foam, springs,tape and string. The arm base contains 5 servo motors which are responsible for finger movements, arduino and breadboard is also embedded in the base of robotic arm. The 5 servo motors are powered by a separate battery for smooth functioning. After organizing all the components and configuring them robotic hand is ready. Now for building glove controller flex sensors are the most important part and purchasing them will increase the budget so rather than buying them it’s possible to DIY them(https://www.youtube.com/watch?time_continue=303&v=SJNYbSpvlP8&feature=emb_logo). Once we are done with the flex sensors we need to upload the code but coding for this project is bit difficult.
+We can make the experience better better by using 3-d printed materials and purchasing flex sensors.
+
+*Project Link*:https://www.hackster.io/laurencemlai/diy-glove-controlled-robotic-hand-ff5d63
+
+
+
+
+
