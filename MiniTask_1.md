@@ -76,6 +76,13 @@ When we usually think of location tracking we mostly think of some microcontroll
 
 ![P 9](https://user-images.githubusercontent.com/85311689/122295018-4fcd0b00-cf16-11eb-83aa-cbfb0b1ea16e.jpg)
 
+# Project 10- Smart Street Lights
+#### Purpose-Street Light that glow on detecting movement.
+#### Topic-Microcontroller and PIR Sensor
+The street light will have a LDR sensor which will automatically turn ON the light when the intensity of sunlight becomes low. The microcontroller(Atmega 8) is programmed in such a way that it will keep the lights on in peak hours and will automatically turn them off in the later part of the night. Whenever a vehicle or person passes the PIR motion sensor will detect the motion using IR rays technique and microcontroller will turn the light on for a short period of time . RTC is used to set the timing for turning ON the street lights in peak hours.
+
+*Project Link*:https://www.electronicshub.org/street-lights-that-glow-on-detecting-vehicle-movement/
+![P 10](https://user-images.githubusercontent.com/85311689/122300000-59597180-cf1c-11eb-898a-3e5c9034b87a.gif)
 
 
 
