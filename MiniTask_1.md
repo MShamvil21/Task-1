@@ -43,6 +43,9 @@ We can make the experience better better by using 3-d printed materials and purc
 
 *Project Link*:https://www.hackster.io/laurencemlai/diy-glove-controlled-robotic-hand-ff5d63
 
+![P 6](https://user-images.githubusercontent.com/85311689/122218843-79614480-cecc-11eb-9df9-ec7a57efafb8.jpg)
+
+
 
 
 
