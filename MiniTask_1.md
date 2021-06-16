@@ -88,6 +88,7 @@ The street light will have a LDR sensor which will automatically turn ON the lig
 #### Purpose-To build a device that will notify whenever someone enters
 #### Topics- Raspberry Pi and Home Assistant
 For this project first we need to set up the Raspberry Pi and Home Assistant software. Now using the ESP Home add on function in Home Assistant we can build a intruder alarm using ESP8266.The microcontroller is programmed in such a way that when we are on vacation mode and if the door opens it will send a notification on your Smartphone, toggle  button is used to turn ON the vacation mode and vice versa. Reed button mechanism is used to notify when door is opened.
+
 *Project Link*:https://www.instructables.com/DIY-Home-Automation-Intruder-Alarm-System/
 
 
