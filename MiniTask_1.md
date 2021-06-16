@@ -28,3 +28,10 @@ MAX30102 sensor is used which uses a technique called photoplethysmography to mo
 
 *Project Link*:https://www.instructables.com/Pulse-Oximeter-and-Heart-Rate-Monitor/
 
+# Project 5-Illuminexa (Homemade Alexa with ESP32)
+#### Purpose-To build a device that reacts to your voice and show what you ask for .
+#### Topic-ESP32 and Voice Recognition Module
+This project uses Voice Recognition Module V3 to communicate which can store upto 80 voice commands each with duration of 1500 milliseconds. A 8x32 neopixel panel is use to display the output in return of the voice command covered by a translucent sheet.ESP32 is powered by Micro USB cable to avoid voltage loses and configured with the led panel and voice recognition module. Before using the voice recognition module, first we need to train it with the commands that we are going to use (There is no language barrier!!).
+
+*Project Link*:https://www.instructables.com/ILUMINEXA-HomeMade-Alexa-With-ESP32/
+
