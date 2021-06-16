@@ -51,6 +51,7 @@ We can make the experience better better by using 3-d printed materials and purc
 The mechanism behind the project is that we have a ultrasonic sensor at the backside of cap and if someone (from backside ) approaches and crosses the social distancing limit  then the servo motor starts rotating gently from 0 to 180 and falls back to 0 to get your attention. The coding for the project is simple but its application are also limited .
 
 One more shortcoming of this project is that when a person of short height will approach the ultrasonic sensor may not be able to detect it properly for that we have to adjust the sensor so that it can cover the person shorter in height.
+
 *Project Link*:https://www.hackster.io/manivannan/social-distancing-caps-815d3b
 
 ![P 8 Gif](https://user-images.githubusercontent.com/85311689/122227238-589ced00-ced4-11eb-9aab-db52c5027add.gif)
