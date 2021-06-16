@@ -67,6 +67,16 @@ A 9 V battery will increase the weight of glasses so to avoid that batteries wit
 
 ![P 7 b](https://user-images.githubusercontent.com/85311689/122242323-d9fa7c80-cee0-11eb-8d2d-3aff0af8ad87.jpg)
 
+# Project 9- Car Tracker (GPS less)
+#### Purpose- To build a device that can track my car location.
+#### Topic-WeMos D1 Mini
+When we usually think of location tracking we mostly think of some microcontroller with a GPS which can plot the path. But in this device we used a rarely known way Wifi Geolocation and Google provide such service. The Device will send a list of Wifi access point from a location  to Google’s API and it will return the GPS coordinate for that point.D1 mini is use to host a web server that will provide us with history of all trips and their path maps. You need to get an API key from Google and have geolocation service enabled in it to run the device. For the hardware part WeMos D1 mini is connected to two modules SD card and a Real Time Clock (RTC).SD card is use to save the trip files and the RTC is use to timestamp the trip.
+
+*Project Link*:https://www.hackster.io/mrdiyca/tracking-my-car-trips-without-gps-1c6226
+
+![P 9](https://user-images.githubusercontent.com/85311689/122295018-4fcd0b00-cf16-11eb-83aa-cbfb0b1ea16e.jpg)
+
+
 
 
 
