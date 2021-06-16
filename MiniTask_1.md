@@ -56,6 +56,17 @@ One more shortcoming of this project is that when a person of short height will 
 
 ![P 8 Gif](https://user-images.githubusercontent.com/85311689/122227238-589ced00-ced4-11eb-9aab-db52c5027add.gif)
 
+# Project 8- Incognito Glasses
+#### Purpose-To block out your face from any security camera that does not have IR filter
+#### Topic- Microcontroller and IR LED
+This project is build around DigiSpark Microcontroller (Other microcontroller can also be use, this microcontroller is use to minimize cost).This device cannot block our you face if camera is having IR filter in this case you will see a small red or purple light coming from LED. High brightness of LED is must for complete block out and for that MOSFET transistor is use to amplify voltage. To avoid power loss while connecting and disconnecting battery switch is introduce.
+
+A 9 V battery will increase the weight of glasses so to avoid that batteries with smaller size and same capacity should be used.
+*Project Link*:https://www.hackster.io/tony619/incognito-glasses-556a3c
+
+![P 7 b](https://user-images.githubusercontent.com/85311689/122242323-d9fa7c80-cee0-11eb-8d2d-3aff0af8ad87.jpg)
+
+
 
 
 
