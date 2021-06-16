@@ -25,5 +25,6 @@ One suggestion from my side is that a buzzer should be added to warn when the du
 ~~Disclaimer~~: It should be stated that this device is not reliable and accurate enough for medical diagnosis. Fun Project to show off the capabilities of Arduino and few other components!!
 
 MAX30102 sensor is used which uses a technique called photoplethysmography to monitor the heart rate. The results are displayed on I2C OLED screen. After connecting the sensor and OLED screen with the arduino code is uploaded and green and indicates the range of your SP02 level.
+
 *Project Link*:https://www.instructables.com/Pulse-Oximeter-and-Heart-Rate-Monitor/
 
