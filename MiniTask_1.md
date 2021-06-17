@@ -119,6 +119,18 @@ This device is of great help in terms of health, safe environment as well as eco
 
 *Project Link*:https://www.hackster.io/aniketdhole991/automatic-air-conditioning-ff4632
 
+# Project 15- Smart Mirror (With Alexa)
+#### Purpose- To build a Smart Mirror displaying important information and Voice control using Alexa.
+#### Topic- Raspberry Pi 3 
+This smart mirror is made up of a monitor screen with two way mirror and a Raspberry Pi 3 to run the software. Two way mirror is one the important component and makes the device attractive and is created by applying Gila Mirrored Window Film to any piece of glass and acrylic. Wooden enclosure is designed to carry the monitor with two way mirror in the front side. After assembling the hardware components electronic components are connected to the monitor and adjusted in the backside of monitor frame.After that Raspberry Pi set up is done by installing a operating system (raspbian Jessie) and running MagicMirror and Alexa software on it.
+
+*Project Link*:https://www.hackster.io/ben-eagan/smart-mirror-with-optional-alexa-874d43
+
+![P 15](https://user-images.githubusercontent.com/85311689/122371157-475beb00-cf7d-11eb-8467-f4a1fb295280.jpg)
+
+
+
+
 
 
 
