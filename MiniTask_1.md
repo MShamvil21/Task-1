@@ -12,6 +12,9 @@ This project is totally based on electronics no programming and coding is requir
 This device will help us to maintain proper ventilation in room which is one of the important aspect in stopping the spread of Covid -19.This device is built around Adafruit Feather328P(other than this any similar similar Arduino Microcontroller can be use).Adafruit Featherwing OLED is used to display the concentration along with date and time, it contains a small OLED screen which communicates through I2C and one more reason for using this particular model is that it contains 3 buttons which are use to interact with device interface. Featherwing Adalogger is used to save the concentration data in SD card this component is a combination of I2C RTC and SPI SD card reader. A  Gravity CO2 sensor is use to measure the gas concentration and LED to use to indicate the level. After connecting all the components code is uploaded using Arduino IDE.
 *Project Link*:https://www.instructables.com/CO2-Monitoring-As-an-Anti-Covid19-Measure/
 
+![P 2](https://user-images.githubusercontent.com/85311689/122326286-ac95e900-cf49-11eb-8304-72be7282fdb0.jpg)
+
+
 # Project 3- Dust Monitoring System
 #### Purpose- Using IOT to built a Dust monitoring system
 #### Topics- Arduino and IOT
@@ -108,6 +111,12 @@ This robot is build around the Arduino microcontroller and HC05 module (Bluetoot
 
 *Project Link*:https://www.instructables.com/Speech-Controlled-Robot-Easy-Version/
 
+# Project 14- Automatic Air Conditioning
+#### Purpose-A device to set the AC temperature according to the external temperature
+#### Topic-Microcontroller
+This device is of great help in terms of health, safe environment as well as economically. In summer time the AC temperature is fixed at a certain value irrespective of external temperature which leads to bad effect on our health, in this device it gets Temperature and Humidity data from DHT11 Temp Sensor and passes on the data to the microcontroller Quick Feather Board. By analyzing the external temperature internal room temperature from AC, it calculates the required temperature using the minimum temperature difference. Then the microcontroller sets the AC temperature using IR transmitter.
+
+*Project Link*:https://www.hackster.io/aniketdhole991/automatic-air-conditioning-ff4632
 
 
 
