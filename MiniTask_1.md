@@ -91,6 +91,11 @@ For this project first we need to set up the Raspberry Pi and Home Assistant sof
 
 *Project Link*:https://www.instructables.com/DIY-Home-Automation-Intruder-Alarm-System/
 
+# Project 12- Automatic Plant Irrigation System
+#### Purpose-A system to irrigate plants without human interference
+#### Topic- HEX inverter and NE555 timer
+This system is based on the concept that soil has very high resistance when it is dry and very low resistance when it is wet. Two probes are inserted into the soil and voltage is given by battery connected to the circuit. When the soil is dry HEX inverter will get the input low and convert it to high and trigger the first NE555 timer which will trigger the second NE555 timer and eventually electrically operated valve will open and allow the water to flow. After the soil becomes wet it will give high input to HEX inverter which will pass low output to rest of the system and water flow will stop.
+*Project Link*:https://www.electronicshub.org/automatic-plant-irrigation-system/
 
 
 
