@@ -97,6 +97,14 @@ For this project first we need to set up the Raspberry Pi and Home Assistant sof
 This system is based on the concept that soil has very high resistance when it is dry and very low resistance when it is wet. Two probes are inserted into the soil and voltage is given by battery connected to the circuit. When the soil is dry HEX inverter will get the input low and convert it to high and trigger the first NE555 timer which will trigger the second NE555 timer and eventually electrically operated valve will open and allow the water to flow. After the soil becomes wet it will give high input to HEX inverter which will pass low output to rest of the system and water flow will stop.
 *Project Link*:https://www.electronicshub.org/automatic-plant-irrigation-system/
 
+# Project 13-Speech Controlled Robot
+#### Purpose-To build a robot that can move around listening to your voice
+#### Topic-Arduino 
+This robot is build around the Arduino microcontroller and HC05 module (Bluetooth Module) is used to connect it to the mobile app. The robot body can be build by a suitable chassis and both the motors are connected to the Motor driver L298n and power is given to the motor driver .After configuring the Bluetooth module with the microcontroller,it is connected to a mobile app(This app can be modified and more features can be added )which will convert the voice command into text using Google API service. 
+
+*Project Link*:https://www.instructables.com/Speech-Controlled-Robot-Easy-Version/
+
+
 
 
 
