@@ -49,7 +49,8 @@ We can make the experience better better by using 3-d printed materials and purc
 
 *Project Link*:https://www.hackster.io/laurencemlai/diy-glove-controlled-robotic-hand-ff5d63
 
-![P 6](https://user-images.githubusercontent.com/85311689/122218843-79614480-cecc-11eb-9df9-ec7a57efafb8.jpg)
+![P 6](https://user-images.githubusercontent.com/85311689/122326946-b9ffa300-cf4a-11eb-8e3b-59f14d68abe7.gif)
+
 
 # Project 7-Social Distancing Cap
 #### Purpose-To modify a cap which can notify us when someone from backside approaches and crosses social distancing limit
