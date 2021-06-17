@@ -28,6 +28,9 @@ MAX30102 sensor is used which uses a technique called photoplethysmography to mo
 
 *Project Link*:https://www.instructables.com/Pulse-Oximeter-and-Heart-Rate-Monitor/
 
+![Project 4](https://user-images.githubusercontent.com/85311689/122322189-b7994b00-cf42-11eb-8834-579c4dc3d25b.png)
+
+
 # Project 5-Illuminexa (Homemade Alexa with ESP32)
 #### Purpose-To build a device that reacts to your voice and show what you ask for .
 #### Topic-ESP32 and Voice Recognition Module
