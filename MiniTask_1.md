@@ -116,7 +116,7 @@ This robot is build around the Arduino microcontroller and HC05 module (Bluetoot
 # Project 14- Automatic Air Conditioning
 #### Purpose-A device to set the AC temperature according to the external temperature
 #### Topic-Microcontroller
-This device is of great help in terms of health, safe environment as well as economically. In summer time the AC temperature is fixed at a certain value irrespective of external temperature which leads to bad effect on our health, in this device it gets Temperature and Humidity data from DHT11 Temp Sensor and passes on the data to the microcontroller Quick Feather Board. By analyzing the external temperature internal room temperature from AC, it calculates the required temperature using the minimum temperature difference. Then the microcontroller sets the AC temperature using IR transmitter.
+This device is of great help in terms of health, safe environment and in financial terms as well. In summer time the AC temperature is fixed at a certain value irrespective of external temperature which leads to bad effect on our health, in this device it gets Temperature and Humidity data from DHT11 Temp Sensor and passes on the data to the microcontroller Quick Feather Board. By analyzing the external temperature internal room temperature from AC, it calculates the required temperature using the minimum temperature difference. Then the microcontroller sets the AC temperature using IR transmitter.
 
 *Project Link*:https://www.hackster.io/aniketdhole991/automatic-air-conditioning-ff4632
 
